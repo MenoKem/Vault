@@ -1,0 +1,491 @@
+{
+  "main": {
+    "id": "5ceb6e32d652403c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8413c8f18a8cf45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f01ed583e41085d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "000 Default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0002 Characters/000 Default.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Default\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Frost Demon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0003 Worldbuilding/Cold Demons.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frost Demon\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "000 Default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0002 Characters/000 Default.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Default\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Frost Demon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0003 Worldbuilding/Cold Demons.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frost Demon\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "000 Default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0002 Characters/000 Default.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Default\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001/Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example"
+            }
+          },
+          {
+            "id": "e7fb813f38307c06",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DragonBall",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/DragonBall.webp\"},\"icon\":\"lucide-image\",\"title\":\"DragonBall\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Additional Plugins that were Installed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Additional Plugins that were Installed.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Additional Plugins that were Installed\"}",
+                  "eState": "{\"scroll\":13.372434017595307}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Example\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Additional Plugins that were Installed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Additional Plugins that were Installed.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Additional Plugins that were Installed\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DragonBall",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/DragonBall.webp\"},\"icon\":\"lucide-image\",\"title\":\"DragonBall\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Example\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cold Demons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0003 Worldbuilding/Cold Demons.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cold Demons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "000 Default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0002 Characters/000 Default.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Default\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Example\"}",
+                  "eState": "{\"scroll\":3.3270142180094786}"
+                },
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DragonBall",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"0000 Attachments/DragonBall.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"DragonBall\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Additional Plugins that were Installed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Additional Plugins that were Installed.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Additional Plugins that were Installed\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Example\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "000 Default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0002 Characters/000 Default.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Default\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cold Demons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0003 Worldbuilding/Cold Demons.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frost Demon\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "000 Default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0002 Characters/000 Default.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Default\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Additional Plugins that were Installed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Additional Plugins that were Installed.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Additional Plugins that were Installed\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Example\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Additional Plugins that were Installed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Additional Plugins that were Installed.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Additional Plugins that were Installed\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Example",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Example.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Example\"}",
+                  "eState": "{\"scroll\":5.124170673966972}"
+                },
+                {
+                  "title": "Additional Plugins that were Installed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0001/Additional Plugins that were Installed.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Additional Plugins that were Installed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":14.722126235734734}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001/Example.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dc9d1550cf658e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a69260588b4c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fe8a0b9dcfd202",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e32768887bdfa04",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bad3226b0b81811",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "d00ccc7fb4616aa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "502b70df5cd7598b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d955eff7728ede71",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0001/Example.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Example"
+            }
+          },
+          {
+            "id": "8dd433e1470ad6ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2dce94b7a79ee453",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0001/Example.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Example"
+            }
+          },
+          {
+            "id": "23527534426e1361",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0001/Example.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Example"
+            }
+          },
+          {
+            "id": "914a492d1d38b24c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false
+    }
+  },
+  "active": "e7fb813f38307c06",
+  "lastOpenFiles": [
+    "0000 Attachments/DragonBall.webp",
+    "0000 Attachments/image.png",
+    "0001/Additional Plugins that were Installed.md",
+    "0001/Example.md",
+    "0000 Attachments/DragonBall.jpeg",
+    "0003 Worldbuilding/Cold Demons.md",
+    "0002 Characters/000 Default.md",
+    "0003 Worldbuilding",
+    "0000 Attachments/Untitled.md",
+    "0000 Attachments/Connor.jpg",
+    "0002 Characters/0001 Connor.md",
+    "0002 Characters",
+    "0000 Attachments",
+    "0001"
+  ]
+}
